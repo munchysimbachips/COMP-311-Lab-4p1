@@ -1,0 +1,3 @@
+Sum = 188
+Smallest number = 1
+Largest number = 67
